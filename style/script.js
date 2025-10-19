@@ -1,8 +1,9 @@
 window.addEventListener('load', () => {
     const messages = [
+        "Yêu Bảo Hà💕",
         "Ngày 20/10 chúc bạn ngày càng xinh đẹp cute đáng iu, cuộc sống giảm bớt áp lực mệt mỏi, và gặp nhiều điều tích cực hơn nhe",
         "Chúc Bha luôn khỏe mạnh và hạnh phúc 🌸",
-        "Yêu Bảo Hà💕",
+        
        
     ];
 
